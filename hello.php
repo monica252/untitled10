@@ -1,1 +1,1 @@
-<?php
+<?php echo "hell world!" ;?>
